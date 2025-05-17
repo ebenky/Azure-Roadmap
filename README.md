@@ -1,2 +1,4 @@
 # Azure-Roadmap
-This is an Overview of the Azure resources
+A comprehensive certification route path.
+
+This is a complete overview of the Azure resources
